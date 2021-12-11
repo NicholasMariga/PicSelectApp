@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Pic Select App</string>
+    <string name="title_item_detail">Item Detail</string>
+
+    <string-array name="pics">
+        <item>pic1</item>
+        <item>pic2</item>
+        <item>pic3</item>
+        <item>pic4</item>
+        <item>pic5</item>
+    </string-array>
+</resources>
